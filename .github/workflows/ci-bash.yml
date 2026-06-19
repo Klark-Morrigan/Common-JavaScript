@@ -12,7 +12,6 @@ name: ci-bash
 
 on:
   pull_request:
-    branches: [ master ]
   workflow_dispatch:
 
 jobs:
